@@ -1,4 +1,6 @@
 fastapi
 uvicorn
-httpx
-watchfiles
+python-multipart
+pandas
+openpyxl
+pydantic
